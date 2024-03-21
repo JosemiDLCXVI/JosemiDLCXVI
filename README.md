@@ -1,4 +1,4 @@
-- 👋 Hola, I’m @JosemiDLCXVI
+- 👋 Hola, soy @JosemiDLCXVI
 - Soy estudiante de grado superior de DAM.
 - Estoy aprendiendo java, C++, HTML, CSS, JavaScript y SQL.
 - Tambien me interesan los temas de ciberseguridad.
